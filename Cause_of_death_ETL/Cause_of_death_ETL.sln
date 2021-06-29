@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Cause_of_death_ETL", "Cause_of_death_ETL\Cause_of_death_ETL.dtproj", "{D97866FD-1062-42B5-AC89-B272AAD8CE13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D97866FD-1062-42B5-AC89-B272AAD8CE13}.Development|Default.ActiveCfg = Development
+		{D97866FD-1062-42B5-AC89-B272AAD8CE13}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
